@@ -1,0 +1,1 @@
+Tweets related to Covid-19 vaccines are fetched using Twitter API, and their sentiments are analysed and studied.
